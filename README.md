@@ -1,1 +1,2 @@
-This app is based on data from Spotify. The app lets the user visualize different audio features of songs from 15 genres. I have also built a popularity prediction model for this data. The model can be found in [this](https://github.com/ashwinimarathe/Spotify-Song-Popularity-Prediction) repo. 
+This app is based on data from Spotify. The app lets the user visualize different audio features of songs from 15 genres. Visualize and play with the song data using [this](https://ashwinimarathe.shinyapps.io/musicvisualization/) link.
+I have also built a popularity prediction model for this data. The model can be found in [this](https://github.com/ashwinimarathe/Spotify-Song-Popularity-Prediction) repo. 
